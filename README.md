@@ -1,1 +1,1 @@
-# App AndroidTrivia
+# AndroidTrivia App
